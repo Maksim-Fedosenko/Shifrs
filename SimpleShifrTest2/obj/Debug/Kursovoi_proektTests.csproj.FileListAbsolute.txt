@@ -1,0 +1,12 @@
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\Kursovoi_proektTests3.dll
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\Kursovoi_proektTests3.pdb
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\Kursovoi_proekt.exe
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\Kursovoi_proekt.pdb
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\Kursovoi_proekt.exe.config
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\obj\Debug\Kursovoi_proektTests.csprojAssemblyReference.cache
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\obj\Debug\Kursovoi_proektTests.csproj.CoreCompileInputs.cache
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\obj\Debug\Kursovoi_proektTests.csproj.CopyComplete
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\obj\Debug\Kursovoi_proektTests3.dll
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proektTests3\obj\Debug\Kursovoi_proektTests3.pdb

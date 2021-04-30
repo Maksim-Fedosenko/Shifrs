@@ -1,0 +1,16 @@
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\bin\Debug\Kursovoi_proekt.exe.config
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\bin\Debug\Kursovoi_proekt.exe
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\bin\Debug\Kursovoi_proekt.pdb
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.csprojAssemblyReference.cache
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\MainWindow.g.cs
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\App.g.cs
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt_MarkupCompile.cache
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt_MarkupCompile.lref
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\MainWindow.baml
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.g.resources
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.Properties.Resources.resources
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.csproj.GenerateResource.cache
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.csproj.CoreCompileInputs.cache
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.exe
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.pdb
+C:\Users\fedos\Desktop\Проекты С#\Kursovoi_proekt\Kursovoi_proekt\obj\Debug\Kursovoi_proekt.csproj.ResolveComReference.cache

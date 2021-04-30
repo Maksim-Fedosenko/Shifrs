@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<infoArray>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="0" dataB="true" expected="абвгдеёжзийклмнопрстуфхцчшщъыбэюя"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="1" dataB="true" expected="бвгдеёжзийклмнопрстуфхцчшщъыбэюяа"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="2" dataB="true" expected="вгдеёжзийклмнопрстуфхцчшщъыбэюяаб"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="5" dataB="true" expected="деёжзийклмнопрстуфхцчшщъыбэюяабвг"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="6" dataB="true" expected="еёжзийклмнопрстуфхцчшщъыбэюяабвгд"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="10" dataB="true" expected="йклмнопрстуфхцчшщъыбэюяабвгдеёжзи"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="11" dataB="true" expected="клмнопрстуфхцчшщъыбэюяабвгдеёжзий"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="20" dataB="true" expected="туфхцчшщъыбэюяабвгдеёжзийклмнопрс"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="23" dataB="true" expected="хцчшщъыбэюяабвгдеёжзийклмнопрстуф"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="33" dataB="true" expected="абвгдеёжзийклмнопрстуфхцчшщъыбэюя"/>
+	<info data ="I love you!" dataK="5" dataB="true" expected="I love you!"/>
+	<info data ="Т@стовый Т@ст" dataK="5" dataB="false" expected="С@лмзнъг М@нм"/>
+	<info data ="абвгдеёжзийклмнопрстуфхцчшщъыбэюя" dataK="33" dataB="false" expected="абвгдеёжзийклмнопрстуфхцчшщъыбэюя"/>
+	<info data ="АбвгдеёжзийклмнопрстуфхцчшщъыбэюЯ" dataK="1" dataB="false" expected="ЯабвгдёёжзийклмнопрстуфхцчшщъаьэЮ"/>
+	<info data ="АбвгдеёжзийклмнопрстуфхцчшщъыбэюЯ" dataK="3" dataB="false" expected="ЭюяабвёёеёжзийклмнопрстуфхцчшюъыЬ"/>
+	<info data ="QWERTY" dataK="666" dataB="false" expected="QWERTY"/>
+	
+</infoArray>
